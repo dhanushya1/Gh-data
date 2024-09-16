@@ -38,3 +38,6 @@
 
 
 ## Dependency caching 
+
+- all jobs need the same dependencies to be installed 
+- so, we can cache these dependencies, so that worflow time is reduced 
